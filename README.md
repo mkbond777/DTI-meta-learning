@@ -3,7 +3,7 @@ This project contains the code used to train the meta-learning model for DTI pre
 
 
 ### Modular_code_V2_0
-Use to train pre-trained model, SVM and meta-learning SVM model. It Also contains EDA
+Use to train pre-trained model, SVM and meta-learning SVM model. It also contains EDA
 
 ### Modular_code_V2_1
 Use to train pre-trained model and meta-learning SVM model
