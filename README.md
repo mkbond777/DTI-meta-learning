@@ -1,5 +1,5 @@
 # DTI-meta-learning
-This project contains the code used to train the meta-learning model for DTI prediction
+This project contains the code used to train the meta-learning model for Drug-Target Interaction (DTI) prediction
 
 
 ### Modular_code_V2_0
